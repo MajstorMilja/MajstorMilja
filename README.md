@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Miljan Stanojevic</h1>
 <h3 align="center">I'm a full stack devoloper from serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdtZmhxZzIycHFrODR3dzVlMHVkb2M4c3R6NGo2aGZ5dDF4YzhsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majstormilja&label=Profile%20views&color=0e75b6&style=flat" alt="majstormilja" /> </p>
 
 - 🔭 I’m currently working on **Sedna**
