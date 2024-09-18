@@ -5,7 +5,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majstormilja&label=Profile%20views&color=0e75b6&style=flat" alt="majstormilja" /> </p>
 
-- 🔭 I’m currently working on **Sedna**
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **Frameworks,typeScript**
 
